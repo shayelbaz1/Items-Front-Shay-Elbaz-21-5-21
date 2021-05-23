@@ -5,7 +5,7 @@
   "scripts": {
     "start": "vue-cli-service serve",
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build"
+    "build": "vue-cli-service build --dest ../backend/public"
   },
   "dependencies": {
     "axios": "^0.19.2",
