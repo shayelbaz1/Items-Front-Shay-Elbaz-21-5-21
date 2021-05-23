@@ -1,0 +1,28 @@
+{
+  "comments": [
+    {
+      "_id": 1,
+      "email": "shay@gmail.com",
+      "txt": "I hate you",
+      "imgURL": "https://picsum.photos/200"
+    },
+    {
+      "_id": 2,
+      "email": "shay1@gmail.com",
+      "txt": "I love you",
+      "imgURL": "https://picsum.photos/200"
+    },
+    {
+      "_id": 3,
+      "email": "shay2@gmail.com",
+      "txt": "I fuck you",
+      "imgURL": "https://picsum.photos/200"
+    },
+    {
+      "email": "shaysha6@gmail.com",
+      "txt": "1234",
+      "imgURL": "https://picsum.photos/200",
+      "_id": 4
+    }
+  ]
+}
